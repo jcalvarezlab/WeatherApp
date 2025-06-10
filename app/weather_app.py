@@ -5,7 +5,7 @@ import numpy as np
 
 @st.cache_resource
 def load_model():
-    return joblib.load('../models/model_pipeline2.pkl')
+    return joblib.load('models/model_pipeline2.pkl')
 
 pipeline = load_model()
 
