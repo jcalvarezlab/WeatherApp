@@ -1,14 +1,14 @@
 #Install using pip the next dependences
-streamlit
-scikit-learn
-xgboost
-pandas
-numpy
-polars
-matplotlib
-seaborn
-joblib
-pyarrow
+#streamlit
+#scikit-learn
+#xgboost
+#pandas
+#numpy
+#polars
+#matplotlib
+#seaborn
+#joblib
+#pyarrow
 
 #version list in the conda enviroment 
 altair==5.4.1
