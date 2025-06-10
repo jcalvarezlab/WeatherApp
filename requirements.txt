@@ -13,7 +13,7 @@
 #version list in the conda enviroment 
 altair==5.4.1
 annotated-types==0.7.0
-apturl==0.5.2
+#apturl==0.5.2
 attrs==25.3.0
 biopython==1.78
 blinker==1.4
