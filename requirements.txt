@@ -11,6 +11,7 @@
 #pyarrow
 
 #version list in the conda enviroment 
+bokeh>=3.0.0
 altair==5.4.1
 annotated-types==0.7.0
 #apturl==0.5.2
