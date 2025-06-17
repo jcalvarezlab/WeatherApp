@@ -8,7 +8,7 @@ from sklearn.metrics import classification_report
 import joblib
 
 # Load dataset
-df = pd.read_csv("your_dataset.csv")
+df = pd.read_csv("data/weatherAUS_2.csv")
 
 # Use only these 5 features
 features = ['Humidity3pm', 'Pressure3pm', 'Sunshine', 'Temperature3pm', 'WindGustSpeed']
